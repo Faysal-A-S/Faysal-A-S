@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faysal Ahmed</h1>
 <h3 align="center">A passionate full-stack frontend focused developer from Bangladesh</h3>
 <h3 align="left">About Me</h3>
-<p align="left">I am a Software Engineer with 1.5+ years of experience working in companies. I have worked on both 
+<p align="left">I am a Software Engineer with 2+ years of experience working in companies. I have worked on both 
 development and testing. I always try to write code that is highly readable, reusable, and easily 
 maintainable. I want to secure a responsible career to fully utilize my skills while contributing significantly 
 to the company’s success.</p>
